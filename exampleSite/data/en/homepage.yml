@@ -20,10 +20,9 @@ features:
   - title: Hilarious chickens
     icon: ''
     content: ''
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: Family Fun
+    icon: ''
+    content: ''
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
