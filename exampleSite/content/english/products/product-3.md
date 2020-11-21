@@ -2,6 +2,7 @@
 title: Card Game
 date: 
 images:
+- "/images/instructions-cover.png"
 - "/images/chicken-party.psd"
 description: this is meta description
 price: "20"
