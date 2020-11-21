@@ -10,11 +10,11 @@ banner:
     link: products
 features:
   enable: true
-  title: Our Core Features
+  title: Chicken Game of the year
   image: ''
   left_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
+  - title: eco friendly cards
+    icon: ''
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Elegant Design
