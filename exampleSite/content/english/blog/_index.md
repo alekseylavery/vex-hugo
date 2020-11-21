@@ -1,5 +1,5 @@
 ---
-title: ''
+title: instant cards
 description: ''
 
 ---
