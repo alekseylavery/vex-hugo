@@ -1,9 +1,9 @@
-baseurl = "http://examplesite.com/"
+baseurl = "http://flockoffame.com/"
 disableLanguages = ["Fr"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+title = "Flock of Fame"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
