@@ -3,7 +3,7 @@ banner:
   enable: true
   title: FLOCK OF FAME - feathery legends, eggcellent layers and fowl play
   content: A card game of famous chickens flocking together in unprecidented times
-  image: instructions-cover.png
+  image: Images/instructions-cover.png
   button:
     enable: true
     label: Browse All Products
