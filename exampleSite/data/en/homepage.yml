@@ -65,10 +65,10 @@ products:
   title: Checkout Our All Products
 subscription:
   enable: true
-  bg_image: images/call-to-action.jpg
-  title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  placeholder: Your Email Address Here
+  bg_image: ''
+  title: ''
+  content: ''
+  placeholder: flockoffame@gmail.com
 testimonial:
   enable: true
   title: Watch Review
