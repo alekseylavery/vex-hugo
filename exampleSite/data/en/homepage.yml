@@ -34,7 +34,7 @@ features:
     icon: ''
     content: ''
 promo:
-  enable: true
+  enable: false
   image: ''
   title: ''
   content: ''
