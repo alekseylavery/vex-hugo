@@ -42,7 +42,7 @@ about_product:
   enable: true
   title: Family friendly card game! Fun until the last card is laid!
   items:
-  - image: ''
+  - image: Images/instructions-cover.png
     title: ''
     content: ''
     button: ''
@@ -59,27 +59,8 @@ testimonial:
   enable: true
   title: Watch Review
   testimonial_item:
-  - name: Jonathon Andrew
-    designation: CEO, Themefisher
-    image: images/avater.png
-    content: A wonderful serenity has taken possession of my entire soul, like these
-      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
-      feel the charm of existence in this spot, which was created for the bliss of
-      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
-  - name: Jonathon Andrew
-    designation: CEO, Themefisher
-    image: images/avater.png
-    content: A wonderful serenity has taken possession of my entire soul, like these
-      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
-      feel the charm of existence in this spot, which was created for the bliss of
-      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
-  - name: Jonathon Andrew
-    designation: CEO, Themefisher
-    image: images/avater.png
-    content: A wonderful serenity has taken possession of my entire soul, like these
-      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
-      feel the charm of existence in this spot, which was created for the bliss of
-      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
+  - name: Ryan Ornelas
+    designation: Game enthusiast
+    image: ''
+    content: "“Love the names! A lot of thought went into this game... Had us cracking
+      up. The kids wanted to play again and again”"
