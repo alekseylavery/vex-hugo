@@ -11,7 +11,7 @@ banner:
 features:
   enable: true
   title: Chicken Game of the year
-  image: ''
+  image: Images/instructions-cover.png
   left_side:
   - title: eco friendly cards
     icon: ''
