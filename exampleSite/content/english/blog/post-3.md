@@ -1,8 +1,9 @@
 ---
 title: special cards
 date: 
-image: ''
-description: ''
+image: "/images/chicken-party.png"
+description: Play this card to discard or take any card. Most powerful card in the
+  game, so use it wisely
 
 ---
 
