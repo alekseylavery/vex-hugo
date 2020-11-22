@@ -57,7 +57,7 @@ subscription:
   placeholder: flockoffame@gmail.com
 testimonial:
   enable: true
-  title: Watch Review
+  title: Game Review
   testimonial_item:
   - name: Ryan Ornelas
     designation: Game enthusiast
