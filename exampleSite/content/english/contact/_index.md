@@ -2,10 +2,10 @@
 title: LXE labs
 description: ''
 office:
-  title: Central Office
-  mobile: '0124857985320'
-  email: demo@email.com
-  location: Dhaka, Bangladedsh
+  title: LXE LABs
+  mobile: ''
+  email: flockoffame@gmail.com
+  location: San Mateo, CA
   content: ''
 opennig_hour:
   title: Opening Hours
