@@ -38,7 +38,7 @@ promo:
   title: ''
   content: ''
 about_product:
-  enable: true
+  enable: false
   title: 'Family friendly card game! Fun until the last card is laid! '
   items:
   - image: Images/slice1.png
@@ -59,7 +59,7 @@ subscription:
   content: ''
   placeholder: flockoffame@gmail.com
 testimonial:
-  enable: true
+  enable: false
   title: Game Review
   testimonial_item:
   - name: Ryan Ornelas
