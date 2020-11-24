@@ -15,4 +15,5 @@ fields:
   name: description
   label: description
 pages:
+- exampleSite/content/english/blog/chicken-game-of-the-year.20191203072044
 - exampleSite/content/english/blog/disease-cards.20191203072044
