@@ -50,8 +50,8 @@ about_product:
     content: ''
     button: ''
 products:
-  enable: false
-  title: Checkout Our All Products
+  enable: true
+  title: Checkout our game - coming soon to Amazon
 subscription:
   enable: false
   bg_image: ''
