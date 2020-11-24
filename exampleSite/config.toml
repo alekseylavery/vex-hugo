@@ -45,7 +45,7 @@ pre = "#"
 weight = 3
 [[menu.main]]
 URL = "blog"
-name = "Card Game"
+name = "Game Cards"
 weight = 2
 [[menu.main]]
 URL = "/"
