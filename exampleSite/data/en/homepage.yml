@@ -50,7 +50,7 @@ about_product:
     content: ''
     button: ''
 products:
-  enable: false
+  enable: true
   title: Checkout Our All Products
 subscription:
   enable: false
