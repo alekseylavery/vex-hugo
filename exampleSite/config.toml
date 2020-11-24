@@ -39,11 +39,6 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [[menu.main]]
-URL = "testimonial"
-name = "Review"
-pre = "#"
-weight = 3
-[[menu.main]]
 URL = "blog"
 name = "Game Cards"
 weight = 2
