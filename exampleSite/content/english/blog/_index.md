@@ -1,5 +1,5 @@
 ---
-title: Instant Cards
+title: Game Cards
 description: ''
 image: "/images/wild-fire-copy.png"
 date: 
