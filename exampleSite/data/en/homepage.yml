@@ -41,6 +41,10 @@ about_product:
   enable: true
   title: Family friendly card game! Fun until the last card is laid!
   items:
+  - image: Images/slice1.png
+    title: ''
+    content: ''
+    button: ''
   - image: Images/instructions-cover.png
     title: ''
     content: ''
