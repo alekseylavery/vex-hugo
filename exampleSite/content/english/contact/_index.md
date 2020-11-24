@@ -1,6 +1,6 @@
 ---
-title: LXE labs
-description: ''
+title: Lavery Family
+description: Contact us to Play!
 office:
   title: LXE LABs
   mobile: ''
