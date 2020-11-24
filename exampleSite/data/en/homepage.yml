@@ -13,10 +13,9 @@ features:
   title: Chicken Game of the year
   image: Images/instructions-cover.png
   left_side:
-  - title: eco friendly cards
+  - title: Eco friendly cards
     icon: ''
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: ''
   - title: Hilarious chickens
     icon: ''
     content: ''
@@ -24,13 +23,13 @@ features:
     icon: ''
     content: ''
   right_side:
+  - title: Takes about 30 minutes to play!
+    icon: ''
+    content: ''
   - title: Age 7+
     icon: ''
     content: ''
   - title: For 2-8 players
-    icon: ''
-    content: ''
-  - title: about 30mintutes to play
     icon: ''
     content: ''
 promo:
@@ -47,10 +46,10 @@ about_product:
     content: ''
     button: ''
 products:
-  enable: true
+  enable: false
   title: Checkout Our All Products
 subscription:
-  enable: true
+  enable: false
   bg_image: ''
   title: ''
   content: ''
