@@ -38,7 +38,7 @@ promo:
   title: ''
   content: ''
 about_product:
-  enable: false
+  enable: true
   title: 'Family friendly card game! Fun until the last card is laid! '
   items:
   - image: Images/slice1.png
