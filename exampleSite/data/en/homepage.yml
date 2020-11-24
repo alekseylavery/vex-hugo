@@ -5,7 +5,7 @@ banner:
   content: A card game of famous chickens flocking together in unprecidented times
   image: Images/instructions-cover.png
   button:
-    enable: true
+    enable: false
     label: Browse All Products
     link: products
 features:
