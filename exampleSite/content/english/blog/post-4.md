@@ -2,8 +2,7 @@
 title: Why You Should buy this Game!!!
 date: 2019-10-17T11:22:16.000+06:00
 image: Image/eggy-Marley.png
-description: A percentage of the proceeds will go to providing chickens to families
-  in need
+description: ''
 menu:
   main:
     name: Review
@@ -18,4 +17,6 @@ Our family brought home a small group of chicks from our sons kindergarten class
 
 Flock of Fame was born. Create a coop of you own and lay valuable eggs! Pair Roosters and Hens for extra points. Face eggstraneous circumstances, like climate change, predators and more...
 
-It is a flocking good time
+It is a flocking good time!!
+
+A percentage of the proceeds will go to providing chickens to families in need
