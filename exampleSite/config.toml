@@ -2,7 +2,7 @@ baseurl = "http://flockoffame.com/"
 disableLanguages = ["fr"]
 googleAnalytics = ""
 summarylength = "20"
-theme = "hugo-vex"
+theme = "vex-hugo"
 title = "Flock of Fame"
 [Languages.en]
 contentDir = "content/english"
