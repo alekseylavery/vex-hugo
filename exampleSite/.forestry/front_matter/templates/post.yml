@@ -16,5 +16,6 @@ fields:
   label: description
 pages:
 - exampleSite/content/english/blog/famous-roosters.20191203072044
+- exampleSite/content/english/blog/famous-roosters.md
 - exampleSite/content/english/blog/instant-cards.20191203072044
 - exampleSite/content/english/blog/upgrade-cards.20191203072044
