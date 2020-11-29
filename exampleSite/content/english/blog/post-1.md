@@ -1,7 +1,7 @@
 ---
 title: Predators
 date: 
-image: "/images/racoonfinal-1.png"
+image: ''
 description: ''
 
 ---
