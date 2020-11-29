@@ -1,7 +1,7 @@
 ---
 title: Special Cards
 date: 
-image: "/images/poopy-coopy-small.png"
+image: "/images/chicken-party.png"
 description: ''
 
 ---
