@@ -1,7 +1,7 @@
 +++
 date = ""
 description = ""
-image = "/images/free-range-2.png"
+image = ""
 title = "Upgrade cards"
 
 +++
