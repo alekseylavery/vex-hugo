@@ -1,7 +1,7 @@
 +++
 date = ""
 description = ""
-image = ""
+image = "/images/wild-fire-copy.png"
 title = "Instant cards"
 
 +++
