@@ -1,7 +1,7 @@
 +++
 date = ""
 description = ""
-image = "/images/neil-farmstrong.png"
+image = ""
 title = "Famous Roosters"
 
 +++
