@@ -1,7 +1,7 @@
 ---
 title: Game Cards
 description: ''
-image: ''
+image: "/images/wild-fire-copy-copy.png"
 date: 
 
 ---
