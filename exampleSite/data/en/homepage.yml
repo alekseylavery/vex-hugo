@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: 'FLOCK OF FAME: Feathery legends, Eggcellent layers and Fowl play'
-  content: Famous Roosters! Famous Hens!
+  content: Famous Roosters! Famous Hens! Eggs Galore
   image: Images/instructions-cover.png
   button:
     enable: false
