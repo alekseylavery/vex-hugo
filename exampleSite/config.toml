@@ -1,6 +1,6 @@
 baseurl = "http://flockoffame.com/"
 disableLanguages = ["fr"]
-googleAnalytics = "G-0T9VZMVH22"
+googleAnalytics = "UA-184031404-1"
 summarylength = "20"
 theme = "vex-hugo"
 title = "Flock of Fame"
