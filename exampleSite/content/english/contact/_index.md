@@ -1,6 +1,6 @@
 ---
 title: Lavery Family
-description: Contact us to get more information
+description: Contact us to get more information and be notified when we are live!
 office:
   title: LXE LABs
   mobile: ''
