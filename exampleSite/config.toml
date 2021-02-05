@@ -23,14 +23,6 @@ URL = "blog"
 name = "Game Cards"
 weight = 1
 [[menu.footer]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-weight = 4
-[[menu.footer]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
-weight = 3
-[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 2
