@@ -2,12 +2,14 @@
 banner:
   enable: true
   title: Flock of Fame Card Game
-  content: |-
-    A family friendly card game with famous chickens flocking together in unprecedented times.  This Chicken game of the year is eco friendly.
-
-    Enjoy the names of our feathery legends, eggcellent layers and Fowl play. Recommend age of 7 years and up with 2 to 8 players.
-
-    Feeling cooped up? Have you ever wanted your very own flock of famous chickens? Now is you chance! In this fast paced, hilarious game, build a flock of your favorite hens to lay valuable eggs.
+  content: "The newest sensation to hit Amazon, a family friendly card game with famous
+    chickens flocking together in unprecedented times. \n\nFeeling coop'd up from
+    COVID? Need to get a break from screen time? Try this hilarious game of egg laying,
+    designed and developed by our family during quarantine time and a new backyard
+    coop of chickens. \n\nHave you ever wanted your very own flock of famous chickens?
+    Now is you chance! Build a flock of your favorite hens to lay valuable eggs, while
+    dealing with predators, climate change and diseases. It's sure to be an eggcellent
+    time for all!"
   image: Images//flockoffame.jpg
   button:
     enable: true
