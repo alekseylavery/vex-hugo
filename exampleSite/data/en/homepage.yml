@@ -6,8 +6,8 @@ banner:
   image: Images/instructions-cover.png
   button:
     enable: true
-    label: Browse All Products
-    link: products
+    label: Amazon Link
+    link: https://amzn.to/3aH2Moj
 features:
   enable: true
   title: Chicken Game of the year
