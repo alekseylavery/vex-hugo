@@ -18,7 +18,7 @@ features:
   left_side:
   - title: Eco friendly cards
     icon: ''
-    content: test
+    content: ''
   - title: Hilarious chickens
     icon: "/images/chicken-emoji.png"
     content: ''
