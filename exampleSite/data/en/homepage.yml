@@ -5,7 +5,7 @@ banner:
   content: Famous Roosters! Famous Hens! Eggs Galore!! BAWK BAWK BAWK
   image: Images/instructions-cover.png
   button:
-    enable: false
+    enable: true
     label: Browse All Products
     link: products
 features:
