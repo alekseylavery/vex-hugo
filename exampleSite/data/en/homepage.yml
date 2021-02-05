@@ -3,7 +3,7 @@ banner:
   enable: true
   title: 'FLOCK OF FAME: Feathery legends, Eggcellent layers and Fowl play'
   content: Famous Roosters! Famous Hens! Eggs Galore!! BAWK BAWK BAWK
-  image: Images/instructions-cover.png
+  image: Images//flockoffame.jpg
   button:
     enable: true
     label: "$20.00"
