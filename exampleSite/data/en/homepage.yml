@@ -17,10 +17,10 @@ features:
   image: images/backbox-1.png
   left_side:
   - title: Eco friendly cards
-    icon: https://upload.wikimedia.org/wikipedia/en/3/35/Information_icon.svg
+    icon: ''
     content: test
   - title: Hilarious chickens
-    icon: ''
+    icon: "/images/chicken-emoji.png"
     content: ''
   - title: Family Fun
     icon: ''
