@@ -44,7 +44,7 @@ name = "Home"
 weight = 1
 [params]
 author = "Themefisher"
-contact_form_action = "https://formspree.io/flockoffame@gmail.com"
+contact_form_action = "https://formspree.io/f/xaylkpkw"
 currency = "$"
 description = "This is meta description"
 logo = "/images/logo.png"
