@@ -1,6 +1,6 @@
 ---
-title: Lavery Family
-description: Contact us to get more information and be notified when we are live!
+title: Contact Us
+description: ''
 office:
   title: LXE LABs
   mobile: ''
@@ -8,7 +8,7 @@ office:
   location: San Mateo, CA
   content: ''
 opennig_hour:
-  title: Opening Hours
+  title: ''
   day_time: []
 
 ---
