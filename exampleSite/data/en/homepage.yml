@@ -53,7 +53,7 @@ about_product:
     content: ''
     button: ''
 products:
-  enable: true
+  enable: false
   title: Checkout our game - coming soon to Amazon
 subscription:
   enable: false
