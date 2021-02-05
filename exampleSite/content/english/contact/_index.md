@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Contact us for Wholesale Opportunities
 description: ''
 office:
   title: LXE LABs
