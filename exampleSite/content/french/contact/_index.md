@@ -19,6 +19,9 @@ opennig_hour:
   - 'Saturday: 9:00 – 19:00'
   - 'sunday: 9:00 – 19:00'
 menu:
+  main:
+    name: Contact 2
+    weight: 5
   footer:
     URL: terms-conditions
     name: Contact 1
