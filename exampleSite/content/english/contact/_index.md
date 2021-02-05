@@ -1,6 +1,6 @@
 ---
-title: Contact Us
-description: 'Instagram '
+title: ''
+description: ''
 office:
   title: LXE LABs
   mobile: ''
@@ -8,10 +8,7 @@ office:
   location: San Mateo, CA
   content: ''
 opennig_hour:
-  title: Instagdram
+  title: ''
   day_time: []
 
 ---
-Testing Content
-
-[Instagram](http://www.test.com "Instagram")
