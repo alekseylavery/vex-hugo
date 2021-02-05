@@ -6,7 +6,7 @@ banner:
   image: Images/instructions-cover.png
   button:
     enable: true
-    label: Amazon Link
+    label: "$20.00"
     link: https://amzn.to/3aH2Moj
 features:
   enable: true
