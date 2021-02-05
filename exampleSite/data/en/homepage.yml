@@ -62,7 +62,7 @@ subscription:
   content: ''
   placeholder: flockoffame@gmail.com
 testimonial:
-  enable: true
+  enable: false
   title: Game Review
   testimonial_item:
   - name: Ryan Ornelas
