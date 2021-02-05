@@ -17,8 +17,8 @@ features:
   image: images/backbox-1.png
   left_side:
   - title: Eco friendly cards
-    icon: ''
-    content: ''
+    icon: https://upload.wikimedia.org/wikipedia/en/3/35/Information_icon.svg
+    content: test
   - title: Hilarious chickens
     icon: "/images/mae-henison2-copy.png"
     content: Mae Hension
